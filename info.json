@@ -3,7 +3,7 @@
   "version": "2.3.5",
   "title": "Aircraft K2 Compat",
   "author": "TriangleV",
-  "homepage": "",
+  "homepage": "https://github.com/TriangleV/Aircraft-K2-Compat",
   "description": "Adds compat for fuels and equipment grid types to the Aircraft mod",
   "factorio_version": "2.0",
   "dependencies": [
