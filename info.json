@@ -1,0 +1,22 @@
+{
+  "name": "Aircraft-k2-compat",
+  "version": "2.3.5",
+  "title": "Aircraft K2 Compat",
+  "author": "TriangleV",
+  "homepage": "",
+  "description": "Adds compat for fuels and equipment grid types to the Aircraft mod",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.23",
+    "Aircraft-space-age >= 2.3.4",
+    "Krastorio2 >= 2.0.16",
+    "? aai-industry >= 0.6.16"
+  ],
+  "quality_required": false,
+  "rail_bridges_required": false,
+  "space_travel_required": false,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
+}
